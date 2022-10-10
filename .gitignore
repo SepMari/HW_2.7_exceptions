@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/HW_2.7_exceptions.iml
+/.idea/
